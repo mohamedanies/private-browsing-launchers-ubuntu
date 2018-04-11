@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=QupZilla private
+Comment=A fast and secure web browser
+Exec=qupzilla -pb
+Icon=qupzilla
+Path=
+Terminal=false
+StartupNotify=false

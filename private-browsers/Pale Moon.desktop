@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pale Moon private
+Comment=Browse the World Wide Web
+Exec=palemoon --private
+Icon=palemoon
+Path=
+Terminal=false
+StartupNotify=true

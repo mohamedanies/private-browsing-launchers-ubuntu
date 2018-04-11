@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Opera private
+Comment=Fast and secure web browser
+Exec=opera --private
+Icon=opera
+Path=
+Terminal=false
+StartupNotify=false

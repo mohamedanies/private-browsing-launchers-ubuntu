@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Chrome Private
+Comment=Access the Internet
+Exec=google-chrome-stable -incognito
+Icon=google-chrome
+Path=
+Terminal=false
+StartupNotify=false

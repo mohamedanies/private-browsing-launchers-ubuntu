@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Midori Private 
+Comment=Open a new private browsing window
+Exec=midori --private 
+Icon=midori
+Path=
+Terminal=false
+StartupNotify=true

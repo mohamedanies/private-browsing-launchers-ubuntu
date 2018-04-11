@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Slimjet private
+Comment=Access the Internet
+Exec=flashpeak-slimjet -incognito
+Icon=flashpeak-slimjet
+Path=
+Terminal=false
+StartupNotify=false

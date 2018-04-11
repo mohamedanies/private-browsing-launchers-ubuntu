@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox private
+Comment=firefox private launcher
+Exec=firefox -no-remote -private-window -P "Private"
+Icon=firefox
+Terminal=false
+StartupNotify=false
+Path=
